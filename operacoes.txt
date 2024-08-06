@@ -1,0 +1,6 @@
+Selecione uma operacao:
+1 - Listar itens
+2 - Adicionar itens
+3 - Remover itens
+4 - Como usar
+5 - Sair

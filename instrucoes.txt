@@ -1,0 +1,35 @@
+Sobre o programa:
+
+Esse programa busca auxilia - lo no gerenciamento do estoque.
+
+Operacoes:
+
+1.Listar itens: ira listar os itens que voce ja possui no estoque.
+Na primeira coluna, aparecem os nomes dos produtos, e na segunda,
+a quantidade.
+
+2.Adicionar itens: ira adicionar itens ao seu estoque. Deve inserir
+quantos produtos deseja adicionar, o nome de cada produto e sua 
+quantidade.
+
+3.Remover itens: ira remover um item de sua lista. Se nao possui
+itens, selecione 'anular operacao'. Para usar esse funcao, 
+escreva um valor maior do que o numero dessa operacao.
+
+4.Como usar: ira exibir essa tela.
+
+5.Sair: ira encerrar o programa.
+
+**IMPORTANTE:
+
+Para utilizar as operacoes 1 e 3, seu estoque precisa ter pelo menos 1
+item. Se for a sua primeira vez utilizando o programa, escolha a 
+operacao 2. 
+
+Se inserir um valor nao numerico nas partes do programa em que pedem um
+numero, tera de reiniciar o programa para que ele volte a funcionar.
+
+A funcao remover pode apresentar alguns defeitos. Ao remover um elemento,
+a proxima vez que usar a operacao lista pode aparecer caracteres aleatorios
+no final. Para resolver, adicione um elemento qualquer e remova ele. Na
+maioria dos casos deve funciona. Caso contrario, entre em contato.
